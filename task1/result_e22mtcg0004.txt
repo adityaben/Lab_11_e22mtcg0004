@@ -1,0 +1,13 @@
+e22mtcg0004
+Name: Aditya Jhankal
+
+circle 2.6 21.23
+Circle 7.8 191.04
+Cube 8.0/ Unknown shape type
+Square 6.0 36.00
+Rectangle 4.5 6.0 27.00
+Pentagon 7/ Unknown shape type
+Cuboid 5 6 7/ Unknown shape type
+Circle 7 153.86
+Cube seven/ Unknown shape type
+Rectangle 5 six/ Invalid value(s) for shape dimensions

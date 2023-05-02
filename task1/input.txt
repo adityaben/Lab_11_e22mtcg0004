@@ -1,0 +1,11 @@
+circle 2.6
+Circle 7.8
+Cube 8.0
+Square 6.0
+Rectangle 4.5 6.0
+Pentagon 7
+Cuboid 5 6 7
+Circle 7
+Cube seven
+Rectangle 5 six
+
